@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1558271749 source:c:\users\philippe\desktop\coursera\le juste prix\main.cpp
+	<iostream>
+	"constantes.h"
+	"jeu.h"
+	"menu.h"
+	<windows.h>
+
+1558258686 c:\users\philippe\desktop\coursera\le juste prix\constantes.h
+
+1558272425 c:\users\philippe\desktop\coursera\le juste prix\jeu.h
+	<iostream>
+	"constantes.h"
+
+1558272034 source:c:\users\philippe\desktop\coursera\le juste prix\jeu.cpp
+	<iostream>
+	"constantes.h"
+	"jeu.h"
+
+1558271680 c:\users\philippe\desktop\coursera\le juste prix\menu.h
+
+1558271952 source:c:\users\philippe\desktop\coursera\le juste prix\menu.cpp
+	"menu.h"
+	"constantes.h"
+	<iostream>
+
